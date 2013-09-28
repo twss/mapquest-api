@@ -26,5 +26,8 @@
   "devDependencies": {
     "mocha": "*",
     "should": "*"
+  },
+  "directories": {
+    "test": "test"
   }
 }
