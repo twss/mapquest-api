@@ -21,6 +21,7 @@
     "url": "https://github.com/twss/mapquest-api/issues"
   },
   "dependencies" : {
+      "superagent": "*"
   },
   "devDependencies": {
       "mocha": "*",
