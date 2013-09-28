@@ -1,4 +1,4 @@
-<div style="float:right;">[![Build Status](https://travis-ci.org/twss/mapquest-api.png)](https://travis-ci.org/twss/mapquest-api)</div>
+[![Build Status](https://travis-ci.org/twss/mapquest-api.png)](https://travis-ci.org/twss/mapquest-api)
 mapquest-api
 ============
 Provides access to the various Open MapQuest Web Services and APIs.
