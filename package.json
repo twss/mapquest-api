@@ -1,0 +1,29 @@
+{
+  "name": "mapquest-api",
+  "version": "0.0.1",
+  "description": "Provides access to various MapQuest APIs",
+  "main": "lib/mapquest-api.js",
+  "scripts": {
+    "test": "mocha test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/twss/mapquest-api.git"
+  },
+  "keywords": [
+    "mapping",
+    "maps",
+    "geocoding"
+  ],
+  "author": "Terry Wilson <terry.wilson@twss.co.uk>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/twss/mapquest-api/issues"
+  },
+  "dependencies" : {
+  },
+  "devDependencies": {
+      "mocha": "*",
+      "should": "*"
+  }
+}
